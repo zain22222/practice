@@ -1,2 +1,1 @@
-# practice
-as an assignment work
+Hello, GitHub! 
